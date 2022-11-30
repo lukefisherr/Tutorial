@@ -3,3 +3,6 @@ The size you want for your TV or monitor depends on how far away you will be fro
 
 
 For a monitor sizing is slightly different because a few inches can make a big difference. If you're someone who sits really close to your monitor than I recommend getting a small monitor under 23-24''. If you sit slightly back at your desk than 24-30'' would be good. In the 30-40'' display range you start to get back into the small TV range. This size would not be good for a desk monitor. Instead you could possibly mount it above your desk when you lounge or to display something. Since the size of the monitors can make a big difference in height especially, people tend to have multiple monitors. This is to increase screen size without increasing the height. It causes less strain on your eyes and is better for multi-tasking.
+
+#### [Home](README.md)
+#### [Next](Res.md)
