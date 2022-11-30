@@ -9,4 +9,3 @@ The intended audience for this tutorial is anyone in the market for a TV who doe
 * Resolution
 * Refresh Rate and Response Time
 * Price
-* Other
