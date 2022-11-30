@@ -3,3 +3,6 @@ Refresh rate can be thought as separating a video into pictures. The higher the 
 
 ### Gamers
 Refresh rate and Response time are more important for gamers and can make or break a monitor choice. For a competitive gamer 144hz is almost necessary. At 60hz (same as 60fps which is what PS4 and Xbox One cap out at) you don't get a smooth enough experience for fast gameplay. For response time, anything over 1ms can become noticeable. For the average gamer, as long as you can't notice it you should be satisfied. Others want an edge on other players so they want even faster response times.
+#### [Home](README.md)
+#### [Previous](Res.md)
+#### [Next](Pricing.md)
